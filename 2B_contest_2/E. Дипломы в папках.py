@@ -25,3 +25,7 @@ sum = 0
 for i in range(n-1):
 	sum += lst[i]
 print(sum)
+
+# n = int(input())
+# lst = list(map(int, input().split()))
+# print(sum(lst) - max(lst))
